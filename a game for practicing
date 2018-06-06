@@ -157,17 +157,6 @@ int main() {
     show();
     return 0;
 }
-/*int main()
-{
-    printf("'w' 's' 'a' 'd'分别控制上下左右（蛇越长跑的越快）\n");
-    printf("按任意键开始\n");
-    char ch=_getch();
-    system("cls");
-    ini();
-    show();
-   return 0;
-}*/
-
 
 
 
